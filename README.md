@@ -1,6 +1,74 @@
 # Pós Tech Data Analytics
 
 ## Conteúdo
+
+### Fase 5 - Deep Learning and Unstructured Data
+
+Deep & Reinforcement Learning 
+
+- Aula 1 - Perceptron de múltiplas camadas
+- Aula 2 - Redes convolucionais
+- Aula 3 - Transferência de aprendizagem
+- Aula 4 - Redes recorrentes
+- Aula 5 - Redes não supervisionadas
+- Aula 6 - Gans
+
+Dados Gerados por Humanos 
+
+- Aula 1 - Overview - Dados Gerados por Humanos
+- Aula 2 - Introdução e Técnicas de Processamento de Texto
+- Aula 3 - Classificação de Texto e Análise de sentimentos
+- Aula 4 - Embeddings
+- Aula 5 - Estudo de caso: Sistema de Recomendação
+- Material Complementar - Dados gerados por humanos
+
+### Fase 4 - Data viz and production models
+
+Análise de negócios
+
+- Aula 1 - Processos e formas de análise
+- Aula 2 - Ligação com bancos de dados
+- Aula 3 - Geração de insights
+- Aula 4 - Técnicas de visualização
+- Aula 5 - Dashboards e storytelling
+
+Deploy de aplicações
+
+- Aula 1 - Tratando os dados
+- Aula 2 - Criando a variável target
+- Aula 3 - Machine Learning: Construindo a Pipeline
+- Aula 4 - Machine Learning: Escolhendo o Melhor Modelo
+- Aula 5 - Criando a aplicação
+
+Modelo de ML em produção
+
+- Aula 1 - Introdução do curso e ML em Produção
+- Aula 2 - Containerização com Docker
+- Aula 3 - API com Flask
+- Aula 4 - Prototipagem de aplicações com Streamlit
+- Aula 5 - Aplicação de ML com Docker, Flask e Streamlit
+
+### Fase 3 - Big Data 
+
+Framework de Big Data
+
+- Aula 1 - Conhecendo o Spark
+- Aula 2 - Operações Básicas no Spark
+- Aula 3 - Consultas e Seleções
+- Aula 4 - Operações entre Dataframes e Armazenamento
+- Aula 5 - Introdução aos Sistemas de Recomendação
+- Aula 6 - Recomendações com o Algoritmo ALS
+
+Bancos de dados para Big Data
+
+- Aula 1 - Realização de consultas com Bigquery;
+- Aula 2 - Disponibilização de bases de dados na nuvem;
+- Aula 3 - Interação com ferramentas externas;
+- Aula 4 - Consultas e interação através de Python;
+- Aula 5 - Manipulação de dados geoespaciais;
+- Aula 6 - Clustering com BigQuery ML
+
+
 ### Fase 2 - Machine Learning and Time Series
 
 Machine Learning com Python
